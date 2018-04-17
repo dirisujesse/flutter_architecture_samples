@@ -10,3 +10,5 @@ doc/api/
 .idea
 /intl_en.arb
 .DS_Store
+config.bat
+node_modules
